@@ -10,3 +10,4 @@ Basic income tax calculator for individuals in India.
 
 ## Purpose
 Helps users quickly estimate their tax liability.
+Updated version coming soon.
